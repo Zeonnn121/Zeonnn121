@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zeonnn121
+- 👋 Hi, I’m @Zeon
 - 👀 I’m interested in ... app development / AIML/DS
 - 🌱 I’m currently learning ... Java and javascript
 - 💞️ I’m looking to collaborate on ...  web dev mini projects
